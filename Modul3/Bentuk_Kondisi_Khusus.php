@@ -1,0 +1,3 @@
+<?php
+  (Kondisi) ? benar : salah;
+?>
